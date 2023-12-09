@@ -1,0 +1,8 @@
+whispering_gallery X
+
+
+
+whispering_gallery enchanted_hall mirror_chamber dragon_lair wizards_study
+moonlit_grove shadowy_vault sunken_crypt frozen_cell phantom_corridor
+serpents_nest knights_hall golden_sanctum crystal_cove mystic_garden
+starlit_tower silent_tomb echoing_cavern haunted_chamber forbidden_throne - room
